@@ -8,7 +8,7 @@
 # generation.
 from os import name
 import random
-
+print("git commit --amend --date="YYYY-MM-DD HH:MM:SS")
 print("************* Welcome to Mobile Service Center *************")
 print()
 altoken = []

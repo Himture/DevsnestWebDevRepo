@@ -1,3 +1,7 @@
 .address{
-    align-content: flex-end;
+    font-weight: bold;
+}
+
+.subject{
+    font-weight: bold;
 }

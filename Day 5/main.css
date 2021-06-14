@@ -20,6 +20,7 @@ body{
 }
 
 .calci-grid > button {
+    border-radius: 10px;
     cursor: pointer;
     font-size: 2rem;
     border: 1px solid white;

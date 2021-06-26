@@ -1,7 +1,7 @@
-THA :
-1). Letter 
-2).    "      +CSS
-3). Portfolio as per structure
+THA : <br>
+1). Letter <br>
+2).    "      +CSS <br>
+3). Portfolio as per structure 
 4). Clock
 5). Simple CALC
 6). Make func() & solve Q.(https://docs.google.com/document/u/0/d/1ocDYa2B27H2tZVI7f_i-7Ze6SIX_2g2N-jUJJ9t__0g/mobilebasic)
@@ -11,3 +11,5 @@ THA :
 10). Memory card game (https://www.helpfulgames.com/subjects/brain-training/memory.html)
 11). Simple Quiz (https://drive.google.com/file/d/1Uw71fhhR65Yh3NQlK6cVEJo5BmLX6_r8/view)
 12). ToDo list
+
+BrickMyGame

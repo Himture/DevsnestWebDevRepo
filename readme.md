@@ -23,4 +23,6 @@ THA : <br>
 - [ ] 19) https://csb-6q2dd.netlify.app/<br>
 - [ ] 20) https://csb-ng5sw.netlify.app/<br>
 <br>
-BrickMyGame<br>
+Hackathons:<br>
+- [x] BrickMyGame<br>
+- [x] WhiteBoard<br>

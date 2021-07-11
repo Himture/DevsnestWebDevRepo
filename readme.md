@@ -1,4 +1,4 @@
-Made a 
+Updated all the THA from DAY 1 <br><br>
 
 THA : <br>
 - [x] 1) Letter <br>
@@ -16,17 +16,11 @@ THA : <br>
 - [x] 13) Call API of : GitHub-Quote-Meme.exe
 - [x] 14) Event handling methods.. (https://drive.google.com/drive/folders/1yDkdzkxUSPz2t2f-38GsqaRuF8dwNo9K)<br>
 - [x] THA day : 15 <br>
-- [x] 16) 
-1) https://csb-uoiio.netlify.app/ 
-2) https://csb-9vj0n.netlify.app/<br>
-- [x] 17)
-https://csb-r1d6n.netlify.app/<br>
-- [] 18) 
-https://csb-9vj0n.netlify.app/<br>
-- [] 19)
-https://csb-6q2dd.netlify.app/<br>
-- [] 20)
-https://csb-ng5sw.netlify.app/<br>
-
+- [x] 16) 1) https://csb-uoiio.netlify.app/ 
+    2) https://csb-9vj0n.netlify.app/<br>
+- [x] 17) https://csb-r1d6n.netlify.app/<br>
+- [ ] 18) https://csb-9vj0n.netlify.app/<br>
+- [ ] 19) https://csb-6q2dd.netlify.app/<br>
+- [ ] 20) https://csb-ng5sw.netlify.app/<br>
 <br>
 BrickMyGame<br>

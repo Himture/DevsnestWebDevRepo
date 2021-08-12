@@ -1,5 +1,6 @@
 
 Updated all the THA from DAY 1 <br><br>
+Day 22 to Day 28 updated late due to exams..
 
   
 
